@@ -1,2 +1,2 @@
-# modular-
-Modular design system for
+# modular-aria
+Small Javascript helpers for handling Aria attributes
